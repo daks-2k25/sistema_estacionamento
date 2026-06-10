@@ -74,3 +74,7 @@ while True:
             veiculos["registros"].append(novo_veiculo)
 
             print(f"Veiculo da placa {placa.upper()}, foi registrado com sucesso na vaga {vaga_escolhida}")
+
+    elif escolha == "2":
+        print("-"*20)
+        print("Saida de veiculos")
