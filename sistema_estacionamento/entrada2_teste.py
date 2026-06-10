@@ -2,6 +2,7 @@ import re
 veiculos = {
     "registros": []
 }
+
 vagas = {
     1: "livre",
     2: "livre",
