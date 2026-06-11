@@ -1,0 +1,7 @@
+1 regra - Maximo de de vagas 10
+2 regra - Estacionamento lotado nao deixar cadastro
+3 regra - Nao cadastrar mesma placa 2 vezes
+4 regra - Saida verificar se placa esta cadastrada
+5 regra - Sistema deve calcular o tempo de permanencia em minutos
+6 regra - Calcular valor a pagar a tabela
+valores - 60minutos 5.00 | 15minutos adicionais 2.00
